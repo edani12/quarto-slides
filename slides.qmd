@@ -1,0 +1,61 @@
+---
+title: "Nikhil is Gay"
+author: "Eshaan Dani"
+format:
+  revealjs:
+    embed-resources: true
+---
+
+# Introduction
+
+## Welcome
+
+- This is my first RevealJS deck
+- Built with Quarto
+
+## Agenda
+
+1. What is Quarto
+2. RevealJS slides
+3. Rendering
+
+# Content Examples
+
+## Columns Example
+
+::: columns
+::: column
+### Left side
+- Point A
+- Point B
+:::
+
+::: column
+### Right side
+- Point C
+- Point D
+:::
+:::
+
+## A Table
+
+| Item | Value |
+|------|-------|
+| A    | 10    |
+| B    | 20    |
+
+## A Link
+
+[Quarto Docs](https://quarto.org)
+
+# Code
+
+## Simple R or Python chunk
+
+
+```{python}
+#| echo: true
+x = [1,2,3]
+y = [1,4,9]
+print("Hello from slides")
+```

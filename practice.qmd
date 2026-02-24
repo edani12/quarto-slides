@@ -1,0 +1,51 @@
+---
+title: "My Quarto Practice"
+format:
+  html: default
+  pdf: default
+bibliography: refs.bib
+---
+
+# My First Quarto Document
+
+This is a simple paragraph.
+
+## A list
+
+- Item 1
+- Item 2
+- Item 3
+
+## A link
+
+[OpenAI](https://openai.com)
+
+## A table
+
+| Name | Value |
+|------|-------|
+| A    | 10    |
+| B    | 20    |
+
+See @fig-simple for the generated graph.
+
+## Python Example
+
+```{python}
+#| echo: true
+#| eval: true
+#| fig-cap: "Simple Line Plot"
+#| label: fig-simple
+
+import matplotlib.pyplot as plt
+
+x = [1,2,3,4]
+y = [1,4,9,16]
+
+plt.plot(x, y)
+plt.show()
+
+print("Hello from Python!")
+```
+
+This is a citation [@example2024].

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "",
+    "text": "Welcome to DATASCI 350! This course introduces key tools in modern data science, focusing on three essential aspects: reliability, reproducibility, and robustness. We will cover the command-line interface, version control with Git and GitHub, and literate programming using Quarto. You will also learn about cloud computing with AWS (basics), data storage and manipulation with SQL and Pandas, and parallel computing with Dask. We will explore AI-assisted programming with GitHub Copilot and Ollama and finish with Docker and containerisation.\nWe will meet every Monday and Wednesday from 5:30pm to 6:45pm in the Psychology Building, Room 230."
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nInstructor\n\nName: Danilo Freire\nEmail: danilo.freire@emory.edu\nOffice Hours: By appointment at your convenience, please email me to schedule a meeting\n\n\n\nTeaching Assistants\n\nName: Alix Morales\nEmail: alix.morales@emory.edu\nName: Harris Wang\nEmail: harris.wang@emory.edu\nOffice Hours: Please email them to arrange a time"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nUse the command line interface to manage files and directories.\nWork with version control systems to track changes in code and collaborate with others.\nCreate reproducible reports and presentations.\nUse AI tools to assist with programming tasks.\nApply advanced techniques for data storage, manipulation, and querying.\nUnderstand the basics of containerisation and parallel computing."
+  },
+  {
+    "objectID": "index.html#website-structure",
+    "href": "index.html#website-structure",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "Website Structure",
+    "text": "Website Structure\nThis website contains the course syllabus, lecture materials, tutorials, and assignments for the course. The course repository at https://github.com/danilofreire/datasci350 is similarly structured. Feel free to explore the materials and use them as needed."
+  },
+  {
+    "objectID": "index.html#getting-help",
+    "href": "index.html#getting-help",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "Getting Help",
+    "text": "Getting Help\nIf you encounter any issues with the course materials or have questions about the content, please:\n\nCheck the course syllabus and this README for relevant information\nReview the lecture materials and tutorials in the repository\nConsult with your classmates or post in the course discussion forum\nAttend office hours or schedule an appointment with the TAs or the instructor"
+  },
+  {
+    "objectID": "index.html#contributing-to-the-repository",
+    "href": "index.html#contributing-to-the-repository",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "Contributing to the Repository",
+    "text": "Contributing to the Repository\nWhile this repository is primarily maintained by the course instructor, everyone is welcome to contribute. Please feel free to suggest improvements or report issues by opening a GitHub issue, submitting a pull request, creating a discussion post, or contacting the instructor directly."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "DATASCI 350 - Data Science Computing",
+    "section": "License",
+    "text": "License\nThis repository is licensed under the MIT License. You are free to use, modify, and distribute the materials as needed, with appropriate attribution to the original source.\n\nWe look forward to an engaging and productive semester! Happy coding!"
+  }
+]
