@@ -1,0 +1,11 @@
+-- database: /Users/eshaandani/Documents/Emory Courses/Spring 2026/DATASCI 350/Lecture Practice/example.db
+
+SELECT * FROM drivers;
+
+INSERT INTO drivers (driver_id, driver_name, nationality, victories) VALUES
+(2, 'Michael Schumacher', 'German', 53),
+(3, 'Sebastian Vettel', 'German', 91),
+(4, 'Fernando Alonso', 'Spanish', 32);
+
+
+SELECT * FROM drivers;

@@ -1,0 +1,11 @@
+-- database: /Users/eshaandani/Documents/Emory Courses/Spring 2026/DATASCI 350/Lecture Practice/example.db
+
+SELECT * FROM drivers;
+
+SELECT driver_name, nationality, victories
+FROM drivers
+WHERE (nationality = 'German' OR nationality = 'British') AND victories > 50;
+
+SELECT driver_name, victories
+FROM drivers
+WHERE victories > (SELECT AVG(victories) FROM drivers);
