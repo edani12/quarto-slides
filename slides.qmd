@@ -1,5 +1,5 @@
 ---
-title: "Nikhil is Gay"
+title: "Slides Practice"
 author: "Eshaan Dani"
 format:
   revealjs:
